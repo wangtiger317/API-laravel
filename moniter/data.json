@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6",
+    "label": "Tel Aviv",
+    "children": [ {
+      "id": "7",
+      "label": "Azrieli",
+      "children": [{
+        "id": "11",
+        "label": "Floor 33"
+      }, {
+        "id": "12",
+        "label": "Floor 34"
+      }]
+    }
+    ]
+  }, {
+  "id": "1",
+  "label": "David"
+}, {
+  "id": "2",
+  "label": "Leshem"
+}, {
+  "id": "3",
+  "label": "Misgav"
+}, {"id": "4",
+  "label": "Shedma"
+}, {
+  "id": "5",
+  "label": "Jerusalem"
+}
+]
